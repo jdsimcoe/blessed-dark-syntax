@@ -1,5 +1,5 @@
 {
-  "name": "duotone-dark-syntax",
+  "name": "blessed-dark-syntax",
   "theme": "syntax",
   "version": "0.2.0",
   "description": "A dark syntax theme",
@@ -10,7 +10,7 @@
     "duotone",
     "syntax"
   ],
-  "repository": "https://github.com/simurai/duotone-dark-syntax",
+  "repository": "https://github.com/jdsimcoe/blessed-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
